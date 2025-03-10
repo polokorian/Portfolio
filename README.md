@@ -24,7 +24,7 @@ Für Tipps zur Minispielsteuerung bitte die README im Projekt lesen.
 Erstellt am  01.2021
 
 ## Projektbeschreibung
-Der Pen and Paper room ist ein Kommunikationstool für Pen and Paper Rollenspiele in welchem Nutzer online zusammen kommen können. Es gibt verschiedene Sprach- und Textchannel, dazu können Würfel gerollt werden und jeder Nutzer kann seinen Charakterbogen anpassen. Auch können Bilder für alle angezeigt und darauf gemalt werden. Dieses Projekt entstand im Rahmen eines Semesters in einer Gruppe mit einer weiteren Studentin.
+Der Pen and Paper room ist ein Kommunikationstool für Pen and Paper Rollenspiele in welchem Nutzer online zusammen kommen können. Es gibt verschiedene Sprach- und Textchannel, dazu können Würfel gerollt werden und jeder Nutzer kann seinen Charakterbogen anpassen. Auch können Bilder für alle angezeigt und darauf gemalt werden. Dieses Projekt entstand im Rahmen eines Semesters in einer Gruppe mit drei weiteren Studenten.
 
 
 # 4. Bachelorarbeit
